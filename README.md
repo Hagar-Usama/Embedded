@@ -78,18 +78,9 @@ Unfortunately, we cannot keep fabrication and testing due to Covid-19  😷.
 ---
 -->
 
-<!--
-## Launch
+<!--## Launch  > TBD
 
- > TBD
-
----
-
-## 🚫 **Restrictions**
-
-
----
--->
+<!-- ## 🚫 **Restrictions** -->
 
 ## Screenshots
 
@@ -105,31 +96,29 @@ Module 1
 [41]: https://github.com/Hagar-Usama/Embedded/blob/master/images/embedded_2.png
 [42]: https://github.com/Hagar-Usama/Embedded/blob/master/images/embedded_3.png
 [43]: https://github.com/Hagar-Usama/Embedded/blob/master/images/embedded_4.png
----
+
+
+
 <!--
 ## Contributing
-> See 👉  [CONTRIBUTING.md][27]
+ See 👉  [CONTRIBUTING.md][27] -->
 
 [27]:https://github.com/Hagar-Usama/Embedded/blob/master/CONTRIBUTING.md
 
----
 
--->
 
 ## To-do List
 * [x] build a neat README
 * [ ] upload scheme and PCB layout
 * [ ] upload testing codes
-* [ ] move this repo & _Arduino smart home_ to **GibLab**
-
-<!--
----
-
-## Bugs 🐞
+* [ ] move this repo & _Arduino smart home_ to **GitLab**
 
 
----
--->
+
+
+<!-- ## Bugs 🐞-->
+
+
 
 ## License
 ![License](http://img.shields.io/:License-GPL3-blue.svg?style=round-square)
