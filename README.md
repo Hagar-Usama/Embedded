@@ -1,14 +1,17 @@
 
 # Embedded 📟
-Simple SIC machine
 
-![Intel-8085][1] ![Embedded-PCB][2] ![Corona-Stuck][3]
+
+![Intel-8085][1] ![Embedded-PCB][2]  ![kicad][4] ![Corona-Stuck][3]
+![license-GPL3][5]
+
+[GPL3 License](https://www.gnu.org/licenses/gpl-3.0.en.html "GPL3")
 
 [1]: https://img.shields.io/:Intel-8085-default.svg?style=round-square
 [2]: https://img.shields.io/:Embedded-PCB-darkgreen.svg?style=round-square
 [3]: https://img.shields.io/:Covid_19-Stuck-maroon.svg?style=round-square
-
-
+[4]: https://img.shields.io/:Ki-CAD-darkblue.svg?style=round-square
+[5]: https://img.shields.io/:license-GPL3-yellow.svg?style=round-square
 ---
 
 ## Table of Contents
@@ -20,7 +23,7 @@ Simple SIC machine
 * [Restrictions][13]
 -->
 
-* [Screenshots][14]
+* [Images][14]
 
 <!--
 * [Contributing][15]
@@ -32,37 +35,33 @@ Simple SIC machine
 * [Bugs][17]
 -->
 
-* [License][18]
 
 
-[10]: https://github.com/Hagar-Usama/Embedded#introduction
+[10]: #introduction
 
-[11]: https://github.com/Hagar-Usama/Embedded#technologies
+[11]: #technologies
 
-[12]: https://github.com/Hagar-Usama/Embedded#launch
+[12]: #launch
 
-[13]: https://github.com/Hagar-Usama/Embedded#-restrictions
+[13]: #-restrictions
 
-[14]: https://github.com/Hagar-Usama/Embedded#screenshots
+[14]: #images
 
-[15]: https://github.com/Hagar-Usama/Embedded#contributing
+[15]: #contributing
 
-[16]: https://github.com/Hagar-Usama/Embedded#to-do-list
+[16]: #to-do-list
 
-[17]: https://github.com/Hagar-Usama/Embedded#bugs-
+[17]: #bugs-
 
-[18]: https://github.com/Hagar-Usama/Embedded#license
+[18]: #license
 
 ---
 
 ## Introduction
 
-Fed up with breadboards 😤? OK! Enough breadboards. We can wire breadboards neatly 😎.
-Let's make a PCB! See motherboards? Let's make our PCB modular, based on modules.
+Fed up with breadboards 😤? OK! Enough breadboards. We can wire breadboards neatly 😎. Let's make a PCB! See motherboards? We will make our PCB modular, based on modules.
 
-Hey, we do this in programming. Yup, ideas are applicable everywhere!
-
-Unfortunately, we cannot keep fabrication and testing due to Covid-19  😷.
+Hey, we do this in programming. Yup, ideas are applicable everywhere! Yet, we cannot keep fabrication and testing due to Covid-19  😷.
 
 ---
 <!--
@@ -82,20 +81,16 @@ Unfortunately, we cannot keep fabrication and testing due to Covid-19  😷.
 
 <!-- ## 🚫 **Restrictions** -->
 
-## Screenshots
+## Images
 
 Module 1
 
-![Embedded1][40]
-![Embedded2][41]
 
-![Embedded3][42]
-![Embedded4][43]
+<img src="images/embedded_1.png" height = 300>
+<img src="images/embedded_2.png" height = 300>
+<img src="images/embedded_4.png" height = 200>
+<img src="images/bread_board.png" height = 500>
 
-[40]: https://github.com/Hagar-Usama/Embedded/blob/master/images/embedded_1.png
-[41]: https://github.com/Hagar-Usama/Embedded/blob/master/images/embedded_2.png
-[42]: https://github.com/Hagar-Usama/Embedded/blob/master/images/embedded_3.png
-[43]: https://github.com/Hagar-Usama/Embedded/blob/master/images/embedded_4.png
 
 
 
@@ -106,21 +101,14 @@ Module 1
 [27]:https://github.com/Hagar-Usama/Embedded/blob/master/CONTRIBUTING.md
 
 
+---
 
 ## To-do List
 * [x] build a neat README
-* [ ] upload scheme and PCB layout
+* [x] upload scheme and PCB layout
 * [ ] upload testing codes
-* [ ] move this repo & _Arduino smart home_ to **GitLab**
 
 
 
 
 <!-- ## Bugs 🐞-->
-
-
-
-## License
-![License](http://img.shields.io/:License-GPL3-blue.svg?style=round-square)
-
-[GPL3 License](https://www.gnu.org/licenses/gpl-3.0.en.html "GPL3")

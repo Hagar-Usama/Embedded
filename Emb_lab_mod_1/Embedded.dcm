@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 742125
+D  Quad Bus Buffer
+K Tri-State ,Embedded
+F http://www.ti.com/lit/ds/sdls044a/sdls044a.pdf
+$ENDCMP
+#
+#End Doc Library
